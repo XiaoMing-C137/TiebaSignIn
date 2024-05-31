@@ -10,7 +10,7 @@
 # 简介
 
 用的是手机端的接口，签到经验更多，用户只需要填写`BDUSS`即可，每日自动帮你签到，最多支持`200`个贴吧签到。
-https://github.com/LuoSue/TiebaSignIn-1
+https://github.com/LuoSue/TiebaSignIn-1  
 
 # 功能
 
